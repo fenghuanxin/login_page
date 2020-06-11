@@ -1,7 +1,8 @@
 # 静态图片效果展示
 ---
-![图片效果]（img/long1.png）
+<br>
+![Image](img/long1.png)
 ---
-![图片效果]（img/long2.png）
+![Image](img/long2.png)
 ---
-![图片效果]（img/long3.png）
+![Image](img/long3.png)
