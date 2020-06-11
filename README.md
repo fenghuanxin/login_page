@@ -2,6 +2,6 @@
 ---
 ![图片效果]（img/long1.png）
 ---
-![图片效果]（img/longin2.png）
+![图片效果]（img/long2.png）
 ---
-![图片效果]（img/longin3.png）
+![图片效果]（img/long3.png）
